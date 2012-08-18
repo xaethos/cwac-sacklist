@@ -100,9 +100,9 @@ Do not ask for help via Twitter.
 
 Release Notes
 -------------
-v0.4.0: added `hasView()`
-v0.3.1: fixed copy-and-paste error in build.xml
-v0.3.0: converted to Android library project
+- v0.4.0: added `hasView()`
+- v0.3.1: fixed copy-and-paste error in build.xml
+- v0.3.0: converted to Android library project
 
 Who Made This?
 --------------
