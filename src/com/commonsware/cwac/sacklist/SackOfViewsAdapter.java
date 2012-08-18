@@ -160,7 +160,11 @@ public class SackOfViewsAdapter extends BaseAdapter {
   public long getItemId(int position) {
     return(position);
   }
-
+  
+  public boolean hasView(View v) {
+    return(views.contains(v));
+  }
+  
   /**
     * Create a new View to go into the list at the specified
     * position.

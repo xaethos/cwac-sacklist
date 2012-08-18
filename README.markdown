@@ -61,14 +61,19 @@ enabled for selection, you will want to override `isEnabled()`
 and return `true` or `false` as needed to indicate which rows are
 selectable and which are not (e.g., header rows).
 
+### Miscellany
+
+You can call `hasView()` on a `SackOfViewsAdapter` to determine
+if it contains a certain `View` or not.
+
 Dependencies
 ------------
 None at present.
 
 Version
 -------
-This is version v0.3.1 of this module, meaning it is new, but not as
-new as it used to be.
+This is version v0.4.0 of this module, meaning that its growth
+has slowed.
 
 Demo
 ----
@@ -90,6 +95,7 @@ and stack traces if you are encountering crashes.
 
 Release Notes
 -------------
+v0.4.0: added `hasView()`
 v0.3.1: fixed copy-and-paste error in build.xml
 v0.3.0: converted to Android library project
 
