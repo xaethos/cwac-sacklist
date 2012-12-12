@@ -20,9 +20,8 @@ While standalone, this is not terribly useful, in conjunction
 with other adapters, perhaps other ones in the CWAC collection,
 it has greater benefit.
 
-This is packaged as an Android library project, though a simple
-JAR is also available from the Downloads section of this
-GitHub repository.
+This is packaged as an Android library project, though
+[a simple JAR is also available](https://github.com/commonsguy/downloads).
 
 Usage
 -----
